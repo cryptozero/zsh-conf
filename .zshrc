@@ -16,7 +16,8 @@ zgen oh-my-zsh
 zgen oh-my-zsh plugins/git
 zgen oh-my-zsh plugins/sudo
 zgen oh-my-zsh plugins/command-not-found
-zgen load zsh-users zsh-autosuggestions
+zgen load zsh-users/zsh-autosuggestions
 
 #sudo apt-get install powerline fonts-powerline for powerline themes
 zgen oh-my-zsh themes/agnoster
+#zgen load bhilburn/powerlevel9k powerlevel9k
