@@ -17,6 +17,7 @@ zgen oh-my-zsh plugins/git
 zgen oh-my-zsh plugins/sudo
 zgen oh-my-zsh plugins/command-not-found
 zgen load zsh-users/zsh-autosuggestions
+zgen oh-my-zsh plugins/zsh-syntax-highlighting
 
 #sudo apt-get install powerline fonts-powerline for powerline themes
 zgen oh-my-zsh themes/agnoster
