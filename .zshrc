@@ -1,3 +1,4 @@
+# https://github.com/junegunn/fzf fuzzy search
 # git clone https://github.com/tarjoilija/zgen.git "${HOME}/.zgen"
 # load zgen
 source "${HOME}/.zgen/zgen.zsh"
