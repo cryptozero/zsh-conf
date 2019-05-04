@@ -3,6 +3,9 @@
 # load zgen
 source "${HOME}/.zgen/zgen.zsh"
 
+#shared history and no duplicates
+setopt histignorealldups sharehistory
+
 # if the init script doesn't exist
 if ! zgen saved; then
 
